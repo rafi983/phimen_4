@@ -1,4 +1,4 @@
-# Competitive Programming Solutions
+# Phimen_4 Solutions
 
 This repository contains C++ solutions to various competitive programming problems. Each file corresponds to a specific problem statement.
 
